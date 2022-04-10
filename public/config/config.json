@@ -1,0 +1,14 @@
+{
+    "CONTRACT_ADDRESS": "0xd0420ded10eb46d44daa50890407600b7eb810f4",
+    "SCAN_LINK": "https://etherscan.io/address/0xd0420ded10eb46d44daa50890407600b7eb810f4",
+    "NETWORK": {
+        "NAME": "Ethereum",
+        "SYMBOL": "ETH",
+        "ID": 1
+    },
+    "NFT_NAME": "Invisible Zuki",
+    "SYMBOL": "IZK",
+    "GAS_LIMIT": 285000,
+    "MARKETPLACE": "Opensea",
+    "MARKETPLACE_LINK": "https://opensea.io"
+}
